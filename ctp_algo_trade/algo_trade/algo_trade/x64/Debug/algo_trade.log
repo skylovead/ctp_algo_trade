@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\tool\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (测试程序.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  traderApi.cpp
+  traderSpi.cpp
+  getconfig.cpp
+  stdafx.cpp
+  main.cpp
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(162,1): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(207,4): warning C4477:  “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“TThostFtdcLargeVolumeType”
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(207,4): warning C4477:  “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“TThostFtdcLargeVolumeType”
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1386,1): warning C4806:  “|”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1386,1): warning C4554:  “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1389,1): warning C4996:  'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message :  参见“itoa”的声明
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1879,1): warning C4806:  “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1879,1): warning C4554:  “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1897,1): warning C4806:  “|”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1897,1): warning C4554:  “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1900,1): warning C4996:  'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message :  参见“itoa”的声明
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1972,1): warning C4806:  “|”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1972,1): warning C4554:  “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\algo_trade\main.h(1975,1): warning C4996:  'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message :  参见“itoa”的声明
+  algo_trade.vcxproj -> D:\git_depository\ctp_algo_trade\ctp_algo_trade\algo_trade\x64\Debug\algo_trade.exe
